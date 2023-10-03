@@ -21,3 +21,8 @@ name=input("Please enter your name")
 print(greeting+name)
 # if we want a space, we can add that to
 print(greeting+ ' ' +name)
+
+print("Number 1\tAmerican Elm")
+print("Number 2\tSugar Maple")
+print("Number 3\tRed Oak")
+print("Number 4\tAmerican Beech")
